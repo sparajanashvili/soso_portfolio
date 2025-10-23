@@ -20,10 +20,7 @@ export const translations = {
     about: {
       title: 'About Me',
       subtitle: 'Transforming Data into Actionable Insights',
-      description: 'I\'m a data-driven problem solver with a passion for turning complex business challenges into clear, actionable insights. With a Master\'s degree in Informatics (AI) and experience spanning SaaS, finance, and public sectors, I specialize in predictive modeling, ETL automation, and creating compelling data visualizations that drive growth and efficiency.',
-      experience: 'Years Experience',
-      projects: 'Projects Completed',
-      satisfaction: 'Client Satisfaction'
+      description: 'I\'m a data-driven problem solver with a passion for turning complex business challenges into clear, actionable insights. With a Master\'s degree in Informatics (AI) and experience spanning SaaS, finance, and public sectors, I specialize in predictive modeling, ETL automation, and creating compelling data visualizations that drive growth and efficiency.'
     },
     skills: {
       title: 'Technical Skills',
