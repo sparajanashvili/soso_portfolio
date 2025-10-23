@@ -67,8 +67,8 @@ export const translations = {
     hero: {
       greeting: 'Hallo, ich bin',
       name: 'Soso Parajanashvili',
-      title: 'Datenwissenschaftler | Datenanalyst | BI-Spezialist',
-      description: 'Junior Data Professional mit MSc in Informatik (KI) und praktischer Erfahrung in Datenanalyse, ETL-Pipelines, Berichtsautomatisierung und Datenvisualisierung. Ich kombiniere technisches Fachwissen mit unternehmerischer Erfahrung, um analytische Lösungen zu entwickeln, die Entscheidungsfindung und Geschäftsleistung verbessern.',
+      title: 'Junior Datenwissenschaftler',
+      description: 'MSc in Informatik mit praktischer Erfahrung in prädiktiver Modellierung, ETL-Pipelines und Datenvisualisierung. Leidenschaftlich daran interessiert, maschinelles Lernen und Analytik zu nutzen, um Geschäftsentscheidungen zu treffen.',
       downloadCV: 'Lebenslauf herunterladen',
       viewProjects: 'Projekte ansehen',
       contact: 'Kontakt aufnehmen'
