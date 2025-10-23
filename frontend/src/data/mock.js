@@ -117,7 +117,7 @@ export const translations = {
 
 export const profileData = {
   name: 'Soso Parajanashvili',
-  title: 'Data Scientist | Data Analyst | BI Specialist',
+  title: 'Junior Data Scientist',
   location: 'Braunschweig, Germany',
   email: 'sparajanashvili@gmail.com',
   phone: '+49 163 6613657',
