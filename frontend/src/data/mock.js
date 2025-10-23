@@ -117,10 +117,7 @@ export const profileData = {
   phone: '+49 163 6613657',
   linkedin: 'https://www.linkedin.com/in/soso-parajanashvili1',
   github: 'https://github.com/sparajanashvili',
-  resumeUrl: '/resume.pdf',
-  yearsExperience: 5,
-  projectsCompleted: 15,
-  clientSatisfaction: 98
+  resumeUrl: '/resume.pdf'
 };
 
 export const skillsData = {
