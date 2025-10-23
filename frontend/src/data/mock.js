@@ -11,8 +11,8 @@ export const translations = {
     hero: {
       greeting: 'Hi, I\'m',
       name: 'Soso Parajanashvili',
-      title: 'Data Scientist | Data Analyst | BI Specialist',
-      description: 'Junior Data Professional with MSc in Informatics (AI) and hands-on experience across data analytics, ETL pipelines, reporting automation, and data visualization. Combining technical expertise with entrepreneurial experience to build analytical solutions that improve decision-making and business performance.',
+      title: 'Junior Data Scientist',
+      description: 'MSc in Informatics with hands-on experience in predictive modeling, ETL pipelines, and data visualization. Passionate about leveraging machine learning and analytics to drive business decisions.',
       downloadCV: 'Download CV',
       viewProjects: 'View Projects',
       contact: 'Get in Touch'
