@@ -73,10 +73,7 @@ export const translations = {
     about: {
       title: 'Über mich',
       subtitle: 'Daten in umsetzbare Erkenntnisse verwandeln',
-      description: 'Ich bin ein datengetriebener Problemlöser mit einer Leidenschaft dafür, komplexe geschäftliche Herausforderungen in klare, umsetzbare Erkenntnisse zu verwandeln. Mit einem Master-Abschluss in Informatik (KI) und Erfahrung in SaaS, Finanzen und öffentlichen Sektoren spezialisiere ich mich auf prädiktive Modellierung, ETL-Automatisierung und die Erstellung überzeugender Datenvisualisierungen, die Wachstum und Effizienz fördern.',
-      experience: 'Jahre Erfahrung',
-      projects: 'Abgeschlossene Projekte',
-      satisfaction: 'Kundenzufriedenheit'
+      description: 'Ich bin ein datengetriebener Problemlöser mit einer Leidenschaft dafür, komplexe geschäftliche Herausforderungen in klare, umsetzbare Erkenntnisse zu verwandeln. Mit einem Master-Abschluss in Informatik (KI) und Erfahrung in SaaS, Finanzen und öffentlichen Sektoren spezialisiere ich mich auf prädiktive Modellierung, ETL-Automatisierung und die Erstellung überzeugender Datenvisualisierungen, die Wachstum und Effizienz fördern.'
     },
     skills: {
       title: 'Technische Fähigkeiten',
