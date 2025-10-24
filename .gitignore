@@ -80,3 +80,5 @@ agenthub/agents/youtube/db
 android-sdk/ node_modules/
 dist/
 .env
+dist/
+.env
